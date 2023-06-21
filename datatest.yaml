@@ -1,0 +1,8 @@
+train: ../Users/yufeiwu/Documents/Technical Response/Skin/skin_test
+
+
+# number of classes
+nc: 5
+
+# class names
+names: ['Bad_logo', 'bubble', 'hole', 'logo', 'offcenter_logo']
